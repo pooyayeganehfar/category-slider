@@ -32,3 +32,4 @@ Future Enhancements:
 	•	Support for showing category images or icons in the slider.
 
 Feel free to contribute to the plugin by submitting issues, feature requests, or pull requests. Help us improve the experience of WordPress users with beautiful, functional sliders!
+<img width="1319" alt="Screenshot 2025-02-02 at 11 04 25" src="https://github.com/user-attachments/assets/daf82d3e-364c-4ff1-8665-6cd26c8874b9" />
